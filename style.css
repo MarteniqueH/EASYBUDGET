@@ -1,0 +1,55 @@
+h1 {
+    color: #3454d1;
+    font-style: normal;
+    text-align: center;
+    margin: 10px,0;
+
+
+}
+h3{
+    color: black;
+    font-size: small;
+    text-align:center;
+    margin: 10px, 0;
+
+
+}
+
+h2{
+    color: black; 
+    font-size: large;
+    text-align: center;
+    margin: 10px, 0;
+
+
+
+}
+
+input{
+    display: block;
+    width: 200px; 
+    margin: -10px auto; 
+    padding: 10px;
+    font-size: 16px;
+}
+
+button{
+    display: block;
+    width: 225px;
+    margin: -1px auto; 
+    padding: 10px;
+    font-size: 16px;
+    background-color: #34D1BF;
+    border-color: white;
+    box-shadow: #3454d1;
+    font-weight: bolder;
+
+}
+h4{
+    text-align: center;
+    margin: -10px auto;
+
+}
+button:hover{
+    background-color: #2ea99f;
+}
