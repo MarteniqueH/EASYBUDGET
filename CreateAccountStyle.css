@@ -75,5 +75,14 @@ button{
     height: 45px;
     border-radius: 15px;
     }
+    .AlreadyHave{
+        text-align: center;
+        margin-top: 7px;
+        font-size: 12px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
     
+    a{
+        color:rgb(225, 127, 143);
+    }
     
