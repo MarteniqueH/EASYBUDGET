@@ -6,10 +6,7 @@ body{
     justify-content: center;
     flex-direction: column;
     height: 100vh;
-
 }
-
-
 .container{
     text-align: center;
 padding-top: 30px;
@@ -18,83 +15,65 @@ padding-top: 30px;
     border-radius: 10px;
     background-color: white;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.35);
-    width: 400px;
-    height: 250px;
+    width: 700px;
+    height: 300px;
 }
-
-.title{
+.CreateAccount{
     font-size: 50px;
     font-weight: 600;
     text-align: center;
     color: pink;
     font-family: Helvetica ;
 
-
 }
-.Quote{
-    text-align: center;
-   font-family: Arial, Helvetica, sans-serif;
-   font-weight: 400;
-   color:  rgb(221, 116, 133);
-   padding-top: -3px;
-
-}
-
-
-
-
-.Username{
+.Name{
     text-align: center;
     margin-top: 5px;
-
 }
-.Username input{
+.Name input{
     width: 300px;
     height: 15px;
-    text-align: center;
+    text-align: left;
     font-size: 20px;
-    padding:10px;
+    padding:15px;
+    border-radius: 15px;
+    border: 1px solid #ccc; 
+}
+.Email{
+    text-align: center;
+    margin-top: 5px;
+}
+.Email input{
+    width: 633px;
+    height: 15px;
+    text-align: left;
+    font-size: 20px;
+    padding:15px;
     border-radius: 15px;
     border: 1px solid #ccc; 
 }
 
-.Password{
-           
+.Password {
     text-align: center;
     margin-top: 5px;
-    padding-bottom: 500px;
-   
 
 }
 .Password input{
-    width: 300px;
+    width: 633px;
     height: 15px;
-    text-align: center;
+    text-align: left;
     font-size: 20px;
-padding: 10px;
+    padding:15px;
     border-radius: 15px;
     border: 1px solid #ccc; 
-
 }
-
 button{
-margin-top: 7px;
-background-color: rgb(215, 143, 155);
-width: 100px;
-height: 25px;
-border-radius: 15px;
-}
-
-
-
-
-.new{
-    text-align: center;
     margin-top: 7px;
-    font-size: 12px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-a{
-    color:rgb(225, 127, 143);
-}
+    background-color: rgb(215, 143, 155);
+    font-size: 20px;
+    width: 300px;
+    height: 45px;
+    border-radius: 15px;
+    }
+    
+    
